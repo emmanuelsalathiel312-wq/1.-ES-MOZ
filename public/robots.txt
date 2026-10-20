@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://zayamara.vercel.app/sitemap.xml
